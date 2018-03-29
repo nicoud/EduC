@@ -1,0 +1,2 @@
+# EduC
+Didactic Arduino board
